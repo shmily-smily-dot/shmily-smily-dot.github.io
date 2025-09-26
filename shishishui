@@ -1,0 +1,14 @@
+
+<body>
+    <p id="top">Target paragraph</p>
+    <p>this is a <span style="color:red">red</span> word</p>
+    <p>this is a <span style="color:red;">red</span> word</p>
+
+<p>paragraph1</p>
+<p>paragraph2</p>
+<p>paragraph3</p>
+<p>paragraph4</p>
+<p>paragraph5</p>
+
+<a href="#top">回到顶部</a>
+</body>
